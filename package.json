@@ -1,0 +1,13 @@
+{
+  "name": "fingerprintCoin",
+  "version": "1.0.0",
+  "description": "CryptoCurrency which effected by user's fingerprint",
+  "main": "src/server.js",
+  "repository": "https://github.com/rkzhap123/fingerprintCoin.git",
+  "author": "rkzhap123 <31896921+rkzhap123@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
